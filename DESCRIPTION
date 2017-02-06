@@ -1,11 +1,10 @@
 Package: p2p
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Model Movement in a Network of Patches
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Author: Juan Manuel Morales
+Maintainer: J.M.Morales <pajarom@gmail.com>
+Description: Functions to fit models for movements among patches taking into account the possibility that animals get from one patch to another by first visiting other patches. The main ideas are from Ovaskainen and Cornell (2003) "Biased movement at a boundary and conditional occupancy times for diffusion processes". Journal of Applied Probability: 557--580. The methods are developed in Morales, et al. 2017 JABES...
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
